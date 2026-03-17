@@ -33,3 +33,5 @@ V = D + I + K + H + P + E
 
 Prevent Civilization Reset  
 Upgrade Civilization instead of Collapse
+## Cosmic Civilization OS Architecture
+![Cosmic Civilization OS](docs/你的图片名字.png)
