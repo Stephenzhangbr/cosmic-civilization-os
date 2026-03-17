@@ -1,5 +1,11 @@
 # Cosmic Civilization OS
 
+Civilization Stability Engineering for the AI Era
+
+An open research framework exploring how civilizations
+can avoid collapse and evolve into stable AI-assisted
+interstellar civilizations.
+
 Research project exploring civilization stability in the AI era.
 
 ## Core Concepts
