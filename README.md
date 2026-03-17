@@ -34,4 +34,4 @@ V = D + I + K + H + P + E
 Prevent Civilization Reset  
 Upgrade Civilization instead of Collapse
 ## Cosmic Civilization OS Architecture
-cosmic_civilization_os_architecture.png
+![Cosmic Civilization OS](docs/docs/cosmic_civilization_os_architecture.png)
