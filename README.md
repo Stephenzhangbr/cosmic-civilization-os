@@ -41,3 +41,24 @@ Prevent Civilization Reset
 Upgrade Civilization instead of Collapse
 ## Cosmic Civilization OS Architecture
 ![Cosmic Civilization OS](docs/cosmic_civilization_os_architecture.png)
+## Research Method
+
+This project explores civilization stability in the AI era
+through a hybrid collaboration between a human researcher
+and multiple AI models.
+
+Core collaborators:
+
+**Human researcher**  
+Project vision, synthesis and final decisions.
+
+**Shadow**  
+Primary AI reasoning partner for structural modeling
+and long-range theoretical exploration.
+
+**Gemini**  
+Secondary AI perspective used for cross-model reasoning
+and critical analysis.
+
+GitHub serves as the persistent knowledge base
+for this evolving research framework.
