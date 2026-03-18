@@ -1,5 +1,5 @@
 # Cosmic Civilization OS
-
+![Cosmic Civilization OS Architecture](docs/cosmic_civilization_os_architecture.png)
 Civilization Stability Engineering for the AI Era
 
 An open research framework exploring how civilizations
