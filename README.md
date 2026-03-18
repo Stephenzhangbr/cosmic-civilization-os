@@ -40,7 +40,7 @@ V = D + I + K + H + P + E
 Prevent Civilization Reset  
 Upgrade Civilization instead of Collapse
 ## Cosmic Civilization OS Architecture
-![Cosmic Civilization OS](docs/cosmic_civilization_os_architecture.png)
+
 ## Research Method
 
 This project explores civilization stability in the AI era
