@@ -1,16 +1,3 @@
-书生，我已经把修订后的版本完整整理成英文 GitHub 文档版。这个版本已经吸收了老窗口提出的三点修改建议：
-
-弱化政治/监管语言
-
-增加 Existential Risk（文明级风险）
-
-明确 Immune System 是 Stability Engineering 的防御层
-
-
-结构保持与你原文一致，张培源可以直接作为 civilization_immune_system.md 上传。
-
-
----
 
 Civilization Immune System
 
