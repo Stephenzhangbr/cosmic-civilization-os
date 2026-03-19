@@ -128,3 +128,7 @@ The long-term goal of this research is to explore how intelligent civilizations 
 This research asks a fundamental question:
 
 How can civilizations survive their own technological acceleration?
+Project Structure
+
+For a quick overview of the research framework structure,
+see PROJECT_STRUCTURE.md.
