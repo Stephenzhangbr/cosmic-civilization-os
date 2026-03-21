@@ -3,7 +3,7 @@ Overview
 This repository is organized as a layered architecture for a civilization-scale operating system.
 Each directory represents a core layer required to maintain stability, coordination, and long-term evolution in a multi-intelligence environment.
 System Layers
-Plain text
+
 00_AXIOMS
 01_CONSENSUS
 02_OPERATING_SYSTEM
@@ -25,23 +25,23 @@ physical and infrastructural safeguards
 Defines how civilization operates at a structural level.
 Components:
 civilization_operating_system.md
-Overall system architecture
+→ system architecture overview
 L3_coordination_layer.md
-Resource allocation and coordination mechanisms
+→ resource allocation and coordination
 L4_governance_layer.md
-Decision-making, conflict resolution, and control systems
+→ decision-making and control
 03_NCM — Value Layer
-Defines how value is created, evaluated, and distributed across the system.
+Defines how value is created and distributed.
 Components:
 NCM_protocol_v0.4.md
-Core value function and contribution model
+→ core value function
 NCM_execution_protocol_v0.1.md
-Execution constraints and anti-manipulation mechanisms
+→ execution constraints and anti-manipulation
 Supporting Components
 docs/
-Supporting materials, extended discussions, and future documentation.
+Supporting materials and extended discussions.
 System Flow
-Plain text
+
 Axioms
 ↓
 Consensus (CCP)
@@ -52,14 +52,13 @@ Value System (NCM)
 ↓
 Execution & Enforcement
 Current Status
-Core system layers have been established:
+Core system layers implemented:
 Axioms ✔
-Consensus Protocol (CCP) ✔
+Consensus ✔
 Operating System (L3, L4) ✔
-NCM Value Model ✔
+NCM ✔
 Execution Protocol ✔
 Next Development Layers (Planned)
-The following layers are part of the full architecture but not yet implemented:
 Layer 2 — Information System (DPT)
 Layer 1 — Consciousness Layer
 Civilization Immune System
