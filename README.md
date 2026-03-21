@@ -1,7 +1,7 @@
 # Cosmic Civilization OS
 ![Cosmic Civilization OS Architecture](docs/cosmic_civilization_os_architecture.png)
 
-
+This is a conceptual system architecture, not a software implementation.
 ### Civilization Stability Engineering for the AI Era
 
 An open framework for designing **stable, multi-intelligence civilizations** in the age of artificial intelligence.
@@ -307,3 +307,15 @@ Stable AI-assisted civilization
 
 > Civilization does not collapse because of lack of intelligence.  
 > It collapses because intelligence is not coordinated.
+# How to Contribute
+
+This is an open conceptual framework.
+
+Contributions may include:
+
+- theoretical improvements  
+- system modeling  
+- adversarial testing (red team analysis)  
+- protocol design  
+
+The goal is to evolve a stable civilization architecture collaboratively.
