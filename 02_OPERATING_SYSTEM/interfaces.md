@@ -204,3 +204,4 @@ To prevent instability:
 
 Reality can trigger governance,  
 but only through validated, persistent, and high-confidence signals.
+High-impact actions must include a staging delay before physical execution.
