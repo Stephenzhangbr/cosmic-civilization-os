@@ -145,3 +145,62 @@ Zero-cost verification is treated as unreliable.
 ## Key Insight
 
 > If a claim cannot be independently verified, it does not exist in the system.
+---
+
+## 3. Unforgeability
+
+Data is considered unforgeable when the cost of falsification exceeds the potential benefit of manipulation.
+
+---
+
+### 1. Physical Cost Binding
+
+Each valid data point must be linked to a measurable physical cost:
+
+- energy expenditure  
+- material usage  
+- time delay  
+
+Data without cost linkage is considered forgeable.
+
+---
+
+### 2. Cross-Domain Resistance
+
+Forgery becomes exponentially harder when data affects multiple physical domains:
+
+- energy systems  
+- thermal signatures  
+- spatial movement  
+
+Single-domain data is considered weak and subject to challenge.
+
+---
+
+### 3. Temporal Anchoring
+
+Data must be bound to irreversible time progression:
+
+- sequence continuity  
+- non-reversible processes  
+- decay or depletion  
+
+Replayable or perfectly reversible data is considered untrusted.
+
+---
+
+### 4. Asymmetric Difficulty
+
+Verification must be easier than falsification:
+
+- low cost to check  
+- high cost to fake  
+
+If falsification and verification have similar cost, the system becomes unstable.
+
+---
+
+## Key Insight
+
+> Truth is not what can be proven.  
+> Truth is what cannot be cheaply faked.
