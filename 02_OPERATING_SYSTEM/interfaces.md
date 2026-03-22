@@ -69,3 +69,70 @@ The system must support explicit rejection:
 Reality does not directly define value.
 
 Only **verified, constrained, and transformed reality** can influence value distribution.
+## 2. L3 → L4 Interface (Value → Governance)
+
+### Purpose
+Defines how value (NCM) influences decision-making without directly converting into control or authority.
+
+---
+
+### Core Constraints
+
+- Value ≠ Authority  
+- All authority must be temporary and revocable  
+- High contribution ≠ system control  
+
+---
+
+### Authority Allocation
+
+NCM value is used to:
+
+- influence decision weight  
+- prioritize resource allocation  
+- increase proposal acceptance probability  
+
+NCM value must NOT:
+
+- directly control the system  
+- grant unilateral decision power  
+- bypass governance constraints (CCP)  
+
+---
+
+### Decision Stratification
+
+Decisions are categorized into three levels:
+
+1. Low Impact  
+   - Automatically executed (AI-driven)
+
+2. Moderate Impact  
+   - Human + AI collaborative decision
+
+3. Critical / Existential  
+   - Mandatory multi-party validation (L4)  
+   - No single-node authority allowed  
+
+---
+
+### Power Decay Mechanism
+
+- Authority decays over time  
+- Authority must be continuously justified by contribution  
+- No permanent control is allowed  
+
+---
+
+### Audit & Constraints
+
+- High-influence nodes must undergo continuous auditing  
+- Abnormal behavior triggers authority reduction  
+- Repeated violations → authority suspension  
+
+---
+
+### Core Principle
+
+Value can influence the system,  
+but must never directly control the system.
