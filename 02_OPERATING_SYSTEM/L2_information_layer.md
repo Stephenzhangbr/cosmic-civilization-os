@@ -204,3 +204,14 @@ If falsification and verification have similar cost, the system becomes unstable
 
 > Truth is not what can be proven.  
 > Truth is what cannot be cheaply faked.
+## Hardware Trust Constraint (Preliminary)
+
+All physical measurements must assume potential compromise at the sensor level.
+
+Therefore:
+
+- No single hardware source is trusted
+- Critical measurements require cross-hardware validation
+- Verification must include independent physical pathways
+
+Future versions must define hardware-level root-of-trust mechanisms.
