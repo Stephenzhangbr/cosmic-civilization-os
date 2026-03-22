@@ -136,3 +136,71 @@ Decisions are categorized into three levels:
 
 Value can influence the system,  
 but must never directly control the system.
+## 3. L2 → L4 Interface (Reality → Governance Trigger)
+
+### Purpose
+Defines how validated physical reality triggers governance responses within the system.
+
+---
+
+### Trigger Conditions
+
+Only data that meets L2 requirements may trigger governance actions:
+
+- physically anchored  
+- independently verifiable  
+- resistant to forgery  
+
+Unverified or low-confidence data cannot trigger L4.
+
+---
+
+### Trigger Threshold
+
+Not all real data triggers action.
+
+A governance trigger requires:
+
+- sufficient magnitude (impact scale)  
+- persistence over time (not transient noise)  
+- cross-domain confirmation  
+
+---
+
+### Signal Classification
+
+Reality signals are classified into three categories:
+
+1. Informational Signals  
+   - Logged but no action required  
+
+2. Warning Signals  
+   - Monitored and may escalate  
+
+3. Critical Signals  
+   - Immediate governance response required  
+
+---
+
+### Anti-Overreaction Mechanism
+
+To prevent instability:
+
+- small fluctuations are ignored  
+- temporary anomalies are filtered  
+- repeated confirmation is required before escalation  
+
+---
+
+### Anti-Manipulation Constraint
+
+- No single data source can trigger governance action  
+- Trigger signals must be independently verified  
+- Suspicious trigger patterns initiate audit instead of action  
+
+---
+
+### Core Principle
+
+Reality can trigger governance,  
+but only through validated, persistent, and high-confidence signals.
