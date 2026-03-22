@@ -87,3 +87,61 @@ All inputs must pass:
 - or multi-source validation  
 
 Unverified automated outputs are treated as non-real by default.
+---
+
+## 2. Verifiability
+
+Data is considered verifiable only if it can be independently confirmed without relying on a single source or authority.
+
+---
+
+### 1. Independent Replication
+
+A data point must be reproducible by separate observers or systems:
+
+- different sensors  
+- different operators  
+- different architectures  
+
+If replication fails, the data is downgraded or rejected.
+
+---
+
+### 2. Physical Consistency
+
+The data must be consistent with known physical constraints:
+
+- energy conservation  
+- material limits  
+- temporal continuity  
+
+Any violation indicates corruption or simulation.
+
+---
+
+### 3. Source Separation
+
+Verification must not rely on the same logical or computational origin.
+
+For example:
+
+- AI model validating its own output is invalid  
+- mirrored systems without independence are invalid  
+
+---
+
+### 4. Verification Cost
+
+True verification requires non-zero cost:
+
+- time  
+- energy  
+- resource usage  
+
+Zero-cost verification is treated as unreliable.
+
+---
+
+## Key Insight
+
+> If a claim cannot be independently verified, it does not exist in the system.
