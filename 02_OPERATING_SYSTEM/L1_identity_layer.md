@@ -65,3 +65,28 @@ If identity cannot be verified:
 ## Status
 
 Draft v0.1 — Identity sovereignty not fully resolved
+## 7. Identity Integrity Constraint
+
+An identity must maintain internal decision consistency over time.
+
+Sudden or unexplainable behavioral deviation triggers:
+→ identity re-validation
+→ potential suspension
+## 8. Responsibility Binding
+
+An identity must hold indivisible responsibility.
+
+Distributed or fragmented responsibility structures are invalid.
+
+If accountability cannot be traced to a single persistent identity:
+→ contribution is rejected
+## 9. Agency Verification
+
+Identity validation must include:
+
+- Physical signals
+- Behavioral patterns
+- Contradiction testing
+
+If signals are valid but intent is inconsistent:
+→ identity is flagged as compromised
