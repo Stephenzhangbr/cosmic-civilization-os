@@ -1,31 +1,67 @@
-# Layer 1 — Identity / Consciousness Layer (L1)
+# Layer 1 — Identity Layer (L1)
+
+## Overview
+Defines what constitutes a valid agent within the Civilization Operating System.
+
+This layer establishes:
+- Identity authenticity
+- Agency boundaries
+- Responsibility anchoring
+
+---
+
+## 1. Identity Definition
+
+An identity is recognized as valid only if it satisfies:
+
+1. Physical Anchoring (L0 binding)
+2. Irreducible Continuity (time persistence)
+3. Responsibility Capability (can bear consequences)
+
+---
+
+## 2. Identity Constraints
+
+- No identity may be duplicated without loss of continuity
+- No identity may scale infinitely without resource cost
+- Simulated identities are rejected by default
+
+---
+
+## 3. Sovereignty Principle
+
+Only entities with:
+- Physical consequences
+- Non-reversible existence
+
+may participate in governance (L4) and value evaluation (NCM).
+
+---
+
+## 4. Anti-Sybil Mechanism
+
+- Identity must be tied to scarce physical resources
+- Identity creation requires irreversible cost
+- Mass identity generation is penalized
+
+---
+
+## 5. Identity Verification Interface (L1 ↔ L2)
+
+Defines how identity links to:
+- physical signals
+- biological markers
+- hardware roots
+
+---
+
+## 6. Failure Mode
+
+If identity cannot be verified:
+→ system defaults to rejection
+
+---
 
 ## Status
 
-This layer is currently undefined.
-
----
-
-## Purpose
-
-Defines:
-
-- what constitutes a valid participating entity
-- how identity is verified
-- how to distinguish biological consciousness from synthetic simulation
-
----
-
-## Critical Importance
-
-Without L1:
-
-- L2 multi-source validation can be spoofed
-- governance (L4) can be hijacked
-- human participation loses meaning
-
----
-
-## Next Step
-
-To define a "Root of Identity" that cannot be trivially replicated or simulated.
+Draft v0.1 — Identity sovereignty not fully resolved
