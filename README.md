@@ -319,3 +319,4 @@ Contributions may include:
 - protocol design  
 
 The goal is to evolve a stable civilization architecture collaboratively.
+
