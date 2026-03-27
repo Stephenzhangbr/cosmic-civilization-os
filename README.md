@@ -1,5 +1,5 @@
 # Cosmic Civilization OS
-![Cosmic Civilization OS Architecture](docs/cosmic_civilization_os_architecture.png)
+![Cosmic Civilization OS Architecture](docs/concepts/cosmic_civilization_os_architecture.png)
 
 This is a conceptual system architecture, not a software implementation.
 ### Civilization Stability Engineering for the AI Era
