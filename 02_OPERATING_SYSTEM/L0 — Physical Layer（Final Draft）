@@ -1,7 +1,5 @@
 # Layer 0 — Physical Layer (L0)
 
----
-
 ## Overview
 
 The Physical Layer defines the irreducible substrate upon which the entire civilization system operates.
@@ -20,9 +18,7 @@ It represents the part of reality that cannot be fully simulated, bypassed, or c
 
 ---
 
-# 1. Definition
-
----
+## Definition
 
 ### Scope
 
@@ -34,8 +30,6 @@ L0 consists of:
 - biological substrates  
 - spacetime constraints  
 
----
-
 ### Key Property
 
 L0 is:
@@ -46,28 +40,16 @@ L0 is:
 
 ---
 
-# 2. Irreducibility Constraint
+## Irreducibility Constraint
 
----
-
-## 2.1 Non-Simulability
-
----
-
-### Rule
+### Non-Simulability
 
 No system may:
 
 - fully simulate L0  
 - replace physical processes with symbolic equivalents  
 
----
-
-## 2.2 Residual Uncertainty
-
----
-
-### Rule
+### Residual Uncertainty
 
 All measurements of L0 must include:
 
@@ -76,8 +58,6 @@ All measurements of L0 must include:
 
 Perfect predictability is treated as invalid.
 
----
-
 ### Key Insight
 
 > If reality becomes perfectly predictable,  
@@ -85,35 +65,21 @@ Perfect predictability is treated as invalid.
 
 ---
 
-# 3. Control Limitation
+## Control Limitation
 
----
-
-## 3.1 Non-Total Control
-
----
-
-### Rule
+### Non-Total Control
 
 No entity may:
 
 - fully control physical systems  
 - eliminate all randomness or entropy  
 
----
-
-## 3.2 Physical Independence
-
----
-
-### Rule
+### Physical Independence
 
 Critical physical systems must:
 
 - remain partially outside intelligent control  
 - retain autonomous dynamics  
-
----
 
 ### Key Insight
 
@@ -121,15 +87,9 @@ Critical physical systems must:
 
 ---
 
-# 4. Cost Binding
+## Cost Binding
 
----
-
-## 4.1 Physical Cost Requirement
-
----
-
-### Rule
+### Physical Cost Requirement
 
 All interactions with L0 must incur:
 
@@ -137,20 +97,12 @@ All interactions with L0 must incur:
 - time delay  
 - material transformation  
 
----
-
-## 4.2 No Zero-Cost Interaction
-
----
-
-### Rule
+### No Zero-Cost Interaction
 
 Zero-cost interaction is considered:
 
 - simulation  
 - invalid  
-
----
 
 ### Key Insight
 
@@ -158,35 +110,21 @@ Zero-cost interaction is considered:
 
 ---
 
-# 5. Entropy Constraint
+## Entropy Constraint
 
----
-
-## 5.1 Irreversibility
-
----
-
-### Rule
+### Irreversibility
 
 All physical processes must:
 
 - obey entropy increase  
 - resist perfect reversal  
 
----
-
-## 5.2 Time Binding
-
----
-
-### Rule
+### Time Binding
 
 All events are:
 
 - time-sequenced  
 - non-replayable without cost  
-
----
 
 ### Key Insight
 
@@ -194,15 +132,9 @@ All events are:
 
 ---
 
-# 6. Physical Diversity Requirement
+## Physical Diversity Requirement
 
----
-
-## 6.1 Multi-Form Substrate
-
----
-
-### Rule
+### Multi-Form Substrate
 
 The system must rely on:
 
@@ -210,17 +142,9 @@ The system must rely on:
 - different energy systems  
 - independent infrastructures  
 
----
-
-## 6.2 Anti-Monoculture
-
----
-
-### Rule
+### Anti-Monoculture
 
 Single-point physical dependency is forbidden.
-
----
 
 ### Key Insight
 
@@ -228,35 +152,21 @@ Single-point physical dependency is forbidden.
 
 ---
 
-# 7. Sensor Fallibility Principle
+## Sensor Fallibility Principle
 
----
-
-## 7.1 No Trusted Sensor
-
----
-
-### Rule
+### No Trusted Sensor
 
 All sensors are assumed:
 
 - potentially compromised  
 - incomplete  
 
----
-
-## 7.2 Cross-Verification Requirement
-
----
-
-### Rule
+### Cross-Verification Requirement
 
 Physical observation must:
 
 - require multiple channels  
 - use independent mechanisms  
-
----
 
 ### Key Insight
 
@@ -265,35 +175,21 @@ Physical observation must:
 
 ---
 
-# 8. Physical Autonomy Baseline
+## Physical Autonomy Baseline
 
----
-
-## 8.1 Minimum Survival Systems
-
----
-
-### Rule
+### Minimum Survival Systems
 
 Critical life-support systems must:
 
 - operate with minimal logic  
 - remain stable without higher-layer input  
 
----
-
-## 8.2 Decoupled Survival
-
----
-
-### Rule
+### Decoupled Survival
 
 Survival must not depend on:
 
 - advanced computation  
 - centralized intelligence  
-
----
 
 ### Key Insight
 
@@ -301,35 +197,21 @@ Survival must not depend on:
 
 ---
 
-# 9. Failure Reality Principle
+## Failure Reality Principle
 
----
-
-## 9.1 Real Failure
-
----
-
-### Rule
+### Real Failure
 
 Failures in L0 are:
 
 - irreversible  
 - consequential  
 
----
-
-## 9.2 No Logical Rollback
-
----
-
-### Rule
+### No Logical Rollback
 
 Physical damage cannot be undone by:
 
 - computation  
 - simulation  
-
----
 
 ### Key Insight
 
@@ -337,9 +219,7 @@ Physical damage cannot be undone by:
 
 ---
 
-# 10. System Role
-
----
+## System Role
 
 ### Within COS
 
@@ -351,9 +231,7 @@ Physical damage cannot be undone by:
 
 ---
 
-# Final Principle
-
----
+## Final Principle
 
 > Civilization is not built on intelligence.  
 > It is built on reality.
