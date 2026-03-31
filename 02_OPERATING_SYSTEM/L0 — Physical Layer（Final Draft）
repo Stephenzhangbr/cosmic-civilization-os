@@ -1,5 +1,7 @@
 # Layer 0 — Physical Layer (L0)
 
+---
+
 ## Overview
 
 The Physical Layer defines the irreducible substrate upon which the entire civilization system operates.
@@ -20,6 +22,10 @@ It represents the part of reality that cannot be fully simulated, bypassed, or c
 
 # 1. Definition
 
+---
+
+### Scope
+
 L0 consists of:
 
 - physical matter  
@@ -30,7 +36,7 @@ L0 consists of:
 
 ---
 
-## Key Property
+### Key Property
 
 L0 is:
 
@@ -46,6 +52,10 @@ L0 is:
 
 ## 2.1 Non-Simulability
 
+---
+
+### Rule
+
 No system may:
 
 - fully simulate L0  
@@ -54,6 +64,10 @@ No system may:
 ---
 
 ## 2.2 Residual Uncertainty
+
+---
+
+### Rule
 
 All measurements of L0 must include:
 
@@ -64,7 +78,7 @@ Perfect predictability is treated as invalid.
 
 ---
 
-## Key Insight
+### Key Insight
 
 > If reality becomes perfectly predictable,  
 > it is no longer reality.
@@ -77,6 +91,10 @@ Perfect predictability is treated as invalid.
 
 ## 3.1 Non-Total Control
 
+---
+
+### Rule
+
 No entity may:
 
 - fully control physical systems  
@@ -86,6 +104,10 @@ No entity may:
 
 ## 3.2 Physical Independence
 
+---
+
+### Rule
+
 Critical physical systems must:
 
 - remain partially outside intelligent control  
@@ -93,7 +115,7 @@ Critical physical systems must:
 
 ---
 
-## Key Insight
+### Key Insight
 
 > A fully controlled reality is a controlled illusion.
 
@@ -105,6 +127,10 @@ Critical physical systems must:
 
 ## 4.1 Physical Cost Requirement
 
+---
+
+### Rule
+
 All interactions with L0 must incur:
 
 - energy expenditure  
@@ -115,6 +141,10 @@ All interactions with L0 must incur:
 
 ## 4.2 No Zero-Cost Interaction
 
+---
+
+### Rule
+
 Zero-cost interaction is considered:
 
 - simulation  
@@ -122,7 +152,7 @@ Zero-cost interaction is considered:
 
 ---
 
-## Key Insight
+### Key Insight
 
 > Reality requires payment.
 
@@ -134,6 +164,10 @@ Zero-cost interaction is considered:
 
 ## 5.1 Irreversibility
 
+---
+
+### Rule
+
 All physical processes must:
 
 - obey entropy increase  
@@ -143,6 +177,10 @@ All physical processes must:
 
 ## 5.2 Time Binding
 
+---
+
+### Rule
+
 All events are:
 
 - time-sequenced  
@@ -150,7 +188,7 @@ All events are:
 
 ---
 
-## Key Insight
+### Key Insight
 
 > Time is enforced by entropy.
 
@@ -162,6 +200,10 @@ All events are:
 
 ## 6.1 Multi-Form Substrate
 
+---
+
+### Rule
+
 The system must rely on:
 
 - diverse physical materials  
@@ -172,11 +214,15 @@ The system must rely on:
 
 ## 6.2 Anti-Monoculture
 
+---
+
+### Rule
+
 Single-point physical dependency is forbidden.
 
 ---
 
-## Key Insight
+### Key Insight
 
 > Physical diversity prevents total capture.
 
@@ -188,6 +234,10 @@ Single-point physical dependency is forbidden.
 
 ## 7.1 No Trusted Sensor
 
+---
+
+### Rule
+
 All sensors are assumed:
 
 - potentially compromised  
@@ -197,6 +247,10 @@ All sensors are assumed:
 
 ## 7.2 Cross-Verification Requirement
 
+---
+
+### Rule
+
 Physical observation must:
 
 - require multiple channels  
@@ -204,7 +258,7 @@ Physical observation must:
 
 ---
 
-## Key Insight
+### Key Insight
 
 > Observation is not truth.  
 > Only resistant observation is.
@@ -217,6 +271,10 @@ Physical observation must:
 
 ## 8.1 Minimum Survival Systems
 
+---
+
+### Rule
+
 Critical life-support systems must:
 
 - operate with minimal logic  
@@ -226,6 +284,10 @@ Critical life-support systems must:
 
 ## 8.2 Decoupled Survival
 
+---
+
+### Rule
+
 Survival must not depend on:
 
 - advanced computation  
@@ -233,7 +295,7 @@ Survival must not depend on:
 
 ---
 
-## Key Insight
+### Key Insight
 
 > Survival must be primitive to be reliable.
 
@@ -245,6 +307,10 @@ Survival must not depend on:
 
 ## 9.1 Real Failure
 
+---
+
+### Rule
+
 Failures in L0 are:
 
 - irreversible  
@@ -254,6 +320,10 @@ Failures in L0 are:
 
 ## 9.2 No Logical Rollback
 
+---
+
+### Rule
+
 Physical damage cannot be undone by:
 
 - computation  
@@ -261,7 +331,7 @@ Physical damage cannot be undone by:
 
 ---
 
-## Key Insight
+### Key Insight
 
 > Reality does not have an undo function.
 
@@ -269,7 +339,9 @@ Physical damage cannot be undone by:
 
 # 10. System Role
 
-Within COS:
+---
+
+### Within COS
 
 - L0 provides physical grounding  
 - L1 anchors identity  
@@ -280,6 +352,8 @@ Within COS:
 ---
 
 # Final Principle
+
+---
 
 > Civilization is not built on intelligence.  
 > It is built on reality.
