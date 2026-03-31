@@ -1,4 +1,3 @@
-<!-- formatting v1 -->
 # Layer 4 — Governance Layer (L4)
 
 ## Overview
